@@ -1,4 +1,35 @@
-# Hello
+<div align="center">
+<img width="50%" src="http://i3.ytimg.com/vi/tYKRAXIio28/maxresdefault.jpg"/>
 
-This app was build with Using Django Restframework (api) to handle backend
-And React for the handling frontend
+# Django & React Notes App
+</div>
+
+### Cloning the repository
+
+--> Clone the repository using the command below :
+```bash
+git clone https://github.com/divanov11/Django-React-NotesApp.git
+
+```
+
+--> Move into the directory where we have the project files : 
+```bash
+cd Django-React-NotesApp
+
+```
+
+--> Create a virtual environment :
+```bash
+# If you are on Windows
+virtualenv env
+# If you are on Linux or Mac
+python -m venv env
+```
+
+--> Activate the virtual environment :
+```bash
+# If you are on Windows
+.\env\Scripts\activate
+# If you are on Linux or Mac
+source env/bin/activate
+```
