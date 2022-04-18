@@ -30,3 +30,7 @@ python -m venv env
 # If you are on Linux or Mac
 source env/bin/activate
 ```
+--> Activate app :
+```bash
+cd api 
+python manage.py runserver
