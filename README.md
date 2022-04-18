@@ -34,3 +34,8 @@ source env/bin/activate
 ```bash
 cd api 
 python manage.py runserver
+
+cd frontend 
+npm run start
+or
+yarn start
