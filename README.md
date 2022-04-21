@@ -39,3 +39,5 @@ cd frontend
 npm run start
 or
 yarn start
+
+This note app has CRUD functionality using DRF
