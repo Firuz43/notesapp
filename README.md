@@ -32,9 +32,11 @@ source env/bin/activate
 ```
 --> Activate app :
 ```bash
+# To activate our backend server
 cd api 
 python manage.py runserver
 
+# To activate our frontend
 cd frontend 
 npm run start
 or
